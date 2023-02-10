@@ -1,0 +1,45 @@
+Design of 5G Laboratory
+
+ 
+
+The aim of the thesis is to build a laboratory for 5G network (RAN and CORE) using open source tools like UERANSIM/ Free5gc/ Open5gc. The target is to have end to end functional 5G network utilizing cloud, docker and Kubernetes.  The student also would need to build a GUI tool that can manage the whole topology of 5G.
+
+ 
+
+Semestral project 1:
+
+ 
+
+Semestral project deals with describing and comparing the open source tools used for 5G simulation. Student also needs to install and configure one of the selected tool on the local virtual machine. The 5G core components need to be in containerized environment.
+
+ 
+
+State of the art of the open source tools used for 5G simulation.
+Installing and configuring the selected tool on local virtual machine.
+Build the 5G core components as docker containers.
+ 
+
+ 
+
+Semestral project 2:
+
+ 
+
+The master thesis deals with Installing 5G open source simulation tool on the cloud ( Azure ).  Moreover, to orchestrate the 5G core containerized components via Kubernetes. At the end, student needs to build a GUI tool that can manage the 5G components.  
+
+ 
+
+Installing 5G open source simulation tool on the cloud.  
+Orchestrate the 5G containerized components via Kubernetes.
+Build a GUI tool that can manage the 5G components.   
+ 
+
+ 
+
+ 
+
+[1]          H Holma, 5G Technology: 3GPP New Radio, ISBN: 1119236312, Pages: 536, Year: 2020
+
+[2]          Adrian Mouat, Kubernetes and Docker - An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise, ISBN:183921340X, Pages: 526, Year: 2020
+
+ 
